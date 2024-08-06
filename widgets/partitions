@@ -6,7 +6,7 @@
 
 columns=2
 disk_warn=80 # %
-filter='nothing' # excluded target separated by |
+filter='overlay|overlay2' # excluded target separated by |
 
 #width=7
 #bar() {
